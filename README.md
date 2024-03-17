@@ -2,6 +2,8 @@
 
 A moderation plugin for TABG-DS. Requires my other plugin, [Citruslib](https://github.com/CyrusTheLesser/Citruslib)
 
+Allows creating a black/whitelist for restricting access to a server, using player's Epic IDs
+
 <h1>How to use</h1>
 
 Install the mod and launch the server once to get the extra settings in the ExtraSettings.json file. The settings should be... self explanatory.
